@@ -1,0 +1,10 @@
+title: AURA.XYZ Ext LuaVM Docs
+description: API reference for the Lua Virtual Machine environment
+remote_theme: just-the-docs/just-the-docs
+
+search_enabled: true
+
+markdown: kramdown
+
+plugins:
+  - jekyll-remote-theme
